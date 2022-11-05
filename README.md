@@ -12,3 +12,6 @@
 - Іконки беремо звідси - https://erikflowers.github.io/weather-icons/
 
 Для плавних анімацій використовуємо CSS-код: *{transition: all .1s ease-in;}
+
+
+![Main](https://user-images.githubusercontent.com/72200398/200112625-48041580-80bf-49a6-92e7-647861a1c92b.jpg)
